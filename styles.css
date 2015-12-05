@@ -1,3 +1,6 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
 #main {
   display: flex;
   justify-content: center;
@@ -16,3 +19,4 @@
 #template-text {
   width: 200px;
 }
+
