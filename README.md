@@ -1,5 +1,6 @@
 ![Drake Dancing](https://49.media.tumblr.com/ce5150842cd0dfe7d670f769a38e9a06/tumblr_nwhy4wc11F1rpt0jio1_500.gif)
 
+A small NLP app built using ES6 and Flux that allows you to tweet out random Drake lyrics based on your mood.
 
 Steps to Run: 
 
