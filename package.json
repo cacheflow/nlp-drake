@@ -1,0 +1,32 @@
+{
+  "name": "nlp-drake",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "learn.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "colors": "^1.1.2",
+    "flux": "^2.1.1",
+    "es6-promise-polyfill": "^1.1.1",
+    "isomorphic-fetch": "^2.2.0",
+    "react": "^0.14.0",
+    "react-addons-update": "^0.14.2",
+    "react-dom": "^0.14.0"
+  },
+
+  "scripts": {
+      "start": "webpack-dev-server --hot --inline"
+  },
+
+  "devDependencies": {
+    "babel-core": "^6.1.21",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.6"
+  }
+}
