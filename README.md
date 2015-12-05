@@ -1,4 +1,5 @@
-![](http://i.giphy.com/dUyHxzWUJX8Ri.gif)
+![](http://i.imgur.com/OUkLi.gif)
+
 Steps to Run: 
 
 1. Run npm install in your terminal. 
