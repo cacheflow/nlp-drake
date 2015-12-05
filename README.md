@@ -1,5 +1,4 @@
-![](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
-
+![Drake Dancing](https://49.media.tumblr.com/ce5150842cd0dfe7d670f769a38e9a06/tumblr_nwhy4wc11F1rpt0jio1_500.gif)
 Steps to Run: 
 
 1. Run npm install in your terminal. 
