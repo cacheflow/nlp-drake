@@ -1,4 +1,4 @@
-![Drake Dancing](http://i.giphy.com/dUyHxzWUJX8Ri.gif)
+![](http://i.giphy.com/dUyHxzWUJX8Ri.gif)
 Steps to Run: 
 
 1. Run npm install in your terminal. 
